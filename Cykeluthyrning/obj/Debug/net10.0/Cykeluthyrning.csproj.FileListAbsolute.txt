@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.exe
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.deps.json
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.runtimeconfig.json
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.dll
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\bin\Debug\net10.0\Cykeluthyrning.pdb
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.dll
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\refint\Cykeluthyrning.dll
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.pdb
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluthyrning.genruntimeconfig.cache
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\ref\Cykeluthyrning.dll
+C:\Users\Chris\Desktop\Christian Skola\2-Objektorienterad Programmering med C# del1\v.43-Namn\Cykeluthyrning\Cykeluthyrning\obj\Debug\net10.0\Cykeluth.727A7044.Up2Date
